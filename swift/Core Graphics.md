@@ -53,6 +53,6 @@ public struct CGRect {
 }
 ```
 ##### 사용법
-`let rect = CGRect(origin: CGPoint(x: 0, y: 0), size: CGSize(width: 10, height: 10))`
+`let rect = CGRect(origin: CGPoint(x: 0, y: 0), size: CGSize(width: 10, height: 10))`  
 `let rect = CGRect(x: 0, y: 0, width: 10, height: 10)`
 > (0, 0) 위치에서 폭 10, 높이 10의 직사각형 표현
